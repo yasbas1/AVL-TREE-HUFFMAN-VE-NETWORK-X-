@@ -1,0 +1,7 @@
+C:\Users\Hamit\Desktop\data4\AVL Tree\AVL\bin\Debug\AVL.exe.config
+C:\Users\Hamit\Desktop\data4\AVL Tree\AVL\bin\Debug\AVL.exe
+C:\Users\Hamit\Desktop\data4\AVL Tree\AVL\bin\Debug\AVL.pdb
+C:\Users\Hamit\Desktop\data4\AVL Tree\AVL\obj\Debug\AVL.csprojAssemblyReference.cache
+C:\Users\Hamit\Desktop\data4\AVL Tree\AVL\obj\Debug\AVL.csproj.CoreCompileInputs.cache
+C:\Users\Hamit\Desktop\data4\AVL Tree\AVL\obj\Debug\AVL.exe
+C:\Users\Hamit\Desktop\data4\AVL Tree\AVL\obj\Debug\AVL.pdb
